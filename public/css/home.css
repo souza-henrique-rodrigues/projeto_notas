@@ -1,0 +1,21 @@
+.container-principal {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  width: 20rem;
+  height: 20rem;
+  background-color: rgb(110, 175, 185);
+  border-radius: 1rem;
+}
+
+.form {
+  margin: auto;
+}
+
+.input {
+  border-radius: 0.2rem;
+}
+
+.button {
+  border-radius: 0.2rem;
+}
